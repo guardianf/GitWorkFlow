@@ -12,3 +12,4 @@ workspace:REPO1 user$ git branch -M main #rename this branch as main
 workspace:REPO1 user$ git remove add origin https://github.com/guardianf/REPO1.git #add remote address and named it as origin
 workspace:REPO1 user$ git push origin main # push local repository to the remote repository
 ``` 
+3. add co-workers
