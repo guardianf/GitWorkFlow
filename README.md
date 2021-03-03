@@ -13,3 +13,4 @@ workspace:REPO1 user$ git remove add origin https://github.com/guardianf/REPO1.g
 workspace:REPO1 user$ git push origin main # push local repository to the remote repository
 ``` 
 3. add co-workers
+4. test pull request
