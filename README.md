@@ -11,4 +11,8 @@ workspace:REPO1 user$ git commit -m "add README.md" # commit README.md file into
 workspace:REPO1 user$ git branch -M main #rename this branch as main
 workspace:REPO1 user$ git remove add origin https://github.com/guardianf/REPO1.git #add remote address and named it as origin
 workspace:REPO1 user$ git push origin main # push local repository to the remote repository
+workspace:REPO1 user$ git branch develop #create a branch named develop
+workspace:REPO1 user$ echo "test string" >> readme.md #add string into readme.md. filename is case insensitive in macos
+workspace:REPO1 user$ git add readme.md
+workspace:REPO1 user$ git commit -m 'commit readme.md'
 ``` 
